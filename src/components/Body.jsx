@@ -7,6 +7,7 @@ export default function Body() {
     <div className="panel-body">
       <div className="chats">
         <Chat/>
+      </div>
     </div>
   )
 }
